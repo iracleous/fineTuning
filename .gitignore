@@ -1,0 +1,7 @@
+.venv
+.env
+__pycache__/
+fine_tuned_model
+local_data
+local_model
+results
